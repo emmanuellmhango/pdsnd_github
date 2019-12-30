@@ -1,15 +1,15 @@
 ### Date created
-Include the date you created this project and README file.
+Date: 30/12/2019
 
 ### Project Title
-Replace the Project Title
+Bike Share 
 
 ### Description
-Describe what your project is about and what it does
+The project analyses the data for three cities and gives out the analytics
 
 ### Files used
-Include the files used
+bikeshare.py, readme.md,.gitignore
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+credit goes to udacity for the awesome guide.
 
